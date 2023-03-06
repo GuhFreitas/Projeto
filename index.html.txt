@@ -1,0 +1,4 @@
+a:
+start https://www.youtube.com/watch?v=pjxa_BEZOHU
+start calc
+goto a 
